@@ -20,19 +20,6 @@ Click the button below to add this repository to your Home Assistant instance:
 
 ## Available Add-ons
 
-### Pi-hole
-Network-wide DNS ad blocking powered by [Pi-hole](https://pi-hole.net/).
-
-**Features:**
-- Blocks ads and trackers at the DNS level for your entire network
-- Web UI for managing block lists and viewing statistics
-- Supports `amd64`, `aarch64`, and `armv7` architectures
-
-**Configuration options:**
-| Option | Default | Description |
-|---|---|---|
-| `webpassword` | *(empty)* | Password for the Pi-hole web interface |
-| `timezone` | `UTC` | Your local timezone (e.g. `Europe/London`) |
-| `dns_listening_mode` | `all` | DNS listening mode (`all`, `single`, `bind`, or `none`) |
-| `web_port` | `80` | HTTP port for the web UI |
-| `web_https_port` | `443` | HTTPS port for the web UI |
+| Add-on | Description |
+|--------|-------------|
+| **[Pi-hole](addon_pihole/README.md)** | Network-wide DNS ad blocking powered by [Pi-hole](https://pi-hole.net/) |
