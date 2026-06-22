@@ -1,6 +1,6 @@
 name: "Pi-hole"
-version: "1.0.0"
-slug: "pihole"
+version: "1.0.1"
+slug: "og_pihole"
 description: "Network-wide DNS ad blocking"
 url: "https://github.com/pi-hole/pi-hole"
 webui: "http://[HOST]:[PORT:80]/admin"
