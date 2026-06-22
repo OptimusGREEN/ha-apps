@@ -1,3 +1,5 @@
+![Total installs](https://img.shields.io/endpoint?url=https://analytics.home-assistant.io/addons_badge/OptimusGREEN/ha-apps/og_pihole.json)
+
 # Pi-hole Add-on
 
 Network-wide DNS ad blocking powered by [Pi-hole](https://pi-hole.net/).
